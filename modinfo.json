@@ -1,0 +1,17 @@
+{
+    "author": "KillerKiwiJuice",
+    "build": "Current",
+    "category": [
+        "server-mod"
+    ],
+    "context": "server",
+    "date": "2015/10/16",
+    "description": "Remove the stupid and lame ragnarok from games so you don't get a troll who builds a ragnarok on a single planet.",
+    "display_name": "NO LAME *** RAGANAROK!",
+    "enabled": true,
+    "forum": "",
+    "icon": "",
+    "identifier": "com.pa.kiwi.no_lame_ass_ragnarok",
+    "signature": "not yet implemented",
+    "version": "1"
+}
